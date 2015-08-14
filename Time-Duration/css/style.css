@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+  font-family: digital7;  
+	src: url(http://websdeveloper.base.pk/wp-content/themes/metro-creativex/fonts/digital-7/digital-7.ttf);  
+	font-weight: normal;
+}
+
+.Rtime{
+  width: 310px;
+  font-family: digital7;
+  // color: red;
+  font-size: 20px;
+  margin: 0 auto;
+  
+}
+
+.Rtime span#bottom{
+  float: right;
+}
+
+.icon-table, .icon-table table, .icon-table table tr{
+  width: 100%;
+  max-width: 800px;
+}
+
+.icon-table table{
+  border-left: 0px !important;
+  border-right: 0px !important;
+}
+
+.icon-table table tr td{
+  padding: 0px 5px;
+}
+
+.icon-table #icon img{
+  width: 35px;
+  height: 35px;
+}
+
+.icon-table #icon{
+  width: 35px;
+  height: 35px;
+  
+}
+
+
+.icon-table #desc{
+  position: relative;
+  line-height: 35px;
+}
