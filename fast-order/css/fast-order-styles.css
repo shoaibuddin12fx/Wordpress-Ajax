@@ -1,0 +1,25 @@
+#wrapper_place_order_form {
+    width: 100%;
+    border-bottom: 3px solid #F00;
+    padding-bottom: 5px;
+}
+
+#wrapper_place_order_form h3 {
+    color: #F00;
+}
+
+#wrapper_place_order_form label {
+    font-weight: bold;
+}
+
+#wrapper_place_order_form input {
+    width: 100%;
+    margin: 5px 0px;
+}
+
+#wrapper_place_order_form form button {
+    width: 100%;
+    padding: 5%;
+    font-size: 15px;
+    font-weight: bold;
+}
